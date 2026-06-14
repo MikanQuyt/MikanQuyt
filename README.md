@@ -1,16 +1,11 @@
 ## Hi there 👋
-
-<!--
-**MikanQuyt/MikanQuyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a student at Ho Chi Minh City University of Science.
+- 🌱 I’m currently learning C/C++, Rust, and Python.
+- 🧠 My core research interests lie in Artificial Intelligence (AI), Deep Learning (DL), and Computer Vision (CV). I spend my time exploring and training deep learning models for practical applications.
+- ⚙️ Career Goals: I am highly motivated to bridge the gap between intelligence and hardware. I am eager to work on projects that combine AI/DL/CV with Embedded Programming, focusing on Edge AI and building smart IoT ecosystems.
+- 😄 Pronouns: Quyt/Mikan
+- ⚡ Fun fact: 
+     + I'm drawn to anything orange.
+     + I absolutely despise cockroaches and bugs.
+     + I love taking a moment to sit and ponder over the difficulties I encounter in        my meetings and academic work.
+     + Deep down, I just want to be a simple Tangerine.
