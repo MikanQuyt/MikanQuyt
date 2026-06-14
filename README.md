@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone, I'm Mikan. Welcome to my wall 👋
 - 🔭 I’m currently a student at Ho Chi Minh City University of Science.
 - 🌱 I’m currently learning C/C++, Rust, and Python.
 - 🧠 My core research interests lie in Artificial Intelligence (AI), Deep Learning (DL), and Computer Vision (CV). I spend my time exploring and training deep learning models for practical applications.
