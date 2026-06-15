@@ -21,4 +21,3 @@
   
 + Deep down, I just want to be a simple Tangerine.
   
-+ I like the games about Pokémon.
