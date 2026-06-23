@@ -15,8 +15,6 @@
 ## A bit about me: 
 + I'm drawn to anything orange.
   
-+ I absolutely despise cockroaches and bugs.
-  
 + I love taking a moment to sit and ponder over the difficulties I encounter in        my meetings and academic work.
   
 + Deep down, I just want to be a simple Tangerine.
