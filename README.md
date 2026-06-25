@@ -8,7 +8,7 @@
 - ⚙️ Career Goals: I am highly motivated to bridge the gap between intelligence and hardware. I am eager to work on projects that combine AI/DL/CV with Embedded Programming, focusing on Edge AI and building smart IoT ecosystems.
   
 ## Tools & Tech
-+ Python, C/C++, Rust, HTML, CSS, SQL
++ Python, C/C++, Rust, HTML, CSS, JavaScript, SQL
   
 + Apple Note, FreeForm, Procreate
 
